@@ -1,8 +1,13 @@
-মিষ্টি খান (Mishti Khan) — বাংলাদেশের কাল্পনিক ৩০ দিনের ব্যঙ্গ-গেম
+Mishti Khan — Release 31
 
-উৎস ফাইল: index.html
-সাইটের স্থির ফাইল: dist/index.html, dist/404.html, dist/favicon.svg
+Static website package for Vercel or another static host.
 
-স্থানীয়ভাবে চালাতে: dist/index.html ব্রাউজারে খুলুন অথবা সাইটের preview server ব্যবহার করুন।
-সেভ ও সেরা পাঁচের তালিকা এই ডিভাইসের browser storage-এ থাকে।
-গেমের দৃশ্যগুলো inline SVG; আলাদা raster image download নেই।
+Vercel setup:
+1. Extract this ZIP into a Git repository.
+2. Import the repository into Vercel.
+3. Choose Other as the framework preset.
+4. Leave the build command empty and set the output directory to .
+5. Deploy.
+
+The public preview is already live at:
+https://mishti-khan-bangladesh.mahfuz085-cuet.chatgpt.site/
